@@ -1,0 +1,8 @@
+<decals>
+
+  <decal path="waldmo/reactor/">
+    <randomizeFrame />
+    <animationSpeed value="6" />
+  </decal>
+
+</decals>
