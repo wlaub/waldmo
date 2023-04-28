@@ -1,0 +1,1 @@
+Note that the tilesets in this collection use a custom layout designed to mitigate undesirable variation in hand-drawn layouts and provide additional corner cases. See tileset q in `Templates/ForegroundTiles.xml`.
