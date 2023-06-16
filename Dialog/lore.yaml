@@ -1,0 +1,62 @@
+# journals
+journals:
+    1:
+      - |
+        [MADELINE left normal]
+        I believe I have identified the source of the {+WEDS}.
+      - |
+        [MADELINE left normal]
+        I have parked my car in a reasonable location and am proceeding {0.6}[MADELINE left togetherZoom]on foot.
+      - |
+        [MADELINE left normal]
+        I have located an entrance.
+    2:
+      - | 
+        [MADELINE left normal]
+        It is still {+WED}.
+      - | 
+        [MADELINE left normal]
+        An unknown force is preventing me from driving away.
+      - | 
+        [MADELINE left togetherZoom]
+        I have no choice but to return to the machine.
+    3:
+      - | 
+        [MADELINE left normal]
+        It is still {+WED}.
+    4:
+      - | 
+        [MADELINE left normal]
+        It is still {+WED}.
+    5:
+      - | 
+        [MADELINE left normal]
+        It is still {+WED}.
+    6:
+      - | 
+        [MADELINE left normal]
+        It is still {+WED}.
+    7:
+      - |
+        [MADELINE left normal]
+        It is still {+WED}.
+    9:
+      - |
+        [MADELINE left normal]
+        {0.6}[MADELINE left togetherZoom]This is the game.
+    65:
+      - |
+        [MADELINE left normal]
+        {1.0}[MADELINE left togetherZoom] Nice.
+    720:
+      - |
+        [MADELINE left normal]
+        I can't remember where I parked my car.
+      - |
+        I guess when I finish here I'll have to return home{0.6}[MADELINE left togetherZoom] on foot.
+    866:
+      - |
+        [MADELINE left normal]
+        You know the drill.
+
+
