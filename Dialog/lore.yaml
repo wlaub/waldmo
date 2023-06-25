@@ -58,5 +58,7 @@ journals:
       - |
         [MADELINE left normal]
         You know the drill.
-
-
+notes:
+    twoteof:
+        1:
+            866: [0]
