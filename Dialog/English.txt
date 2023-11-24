@@ -1,6 +1,8 @@
 	WED=	{# 96EFFF}{~}Wednesday{/~}{#}
 	WEDS=	{# 96EFFF}{~}Wednesdays{/~}{#}
 
+waldmo_BadEnd=
+You were never seen again.
 
 ## WALDMO_AUTO ##
 
