@@ -5,4 +5,17 @@
     <animationSpeed value="6" />
   </decal>
 
+  <decal path="waldmo/broken_mirror_a">
+    <mirror />
+  </decal>
+  <decal path="waldmo/broken_mirror_b">
+    <mirror />
+  </decal>
+  <decal path="waldmo/broken_mirror_c">
+    <mirror />
+  </decal>
+  <decal path="waldmo/broken_mirror_d">
+    <mirror />
+  </decal>
+
 </decals>
