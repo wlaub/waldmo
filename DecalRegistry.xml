@@ -18,4 +18,102 @@
     <mirror />
   </decal>
 
+  <decal path="waldmo/shard_inner_i">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_m">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_g">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_o">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_e">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_k">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_g">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_m">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_k">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_d">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_p">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_s">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_f">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_h">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_n">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_c">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_j">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_q">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_h">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_f">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_a">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_c">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_a">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_j">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_b">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_o">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_e">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_r">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_b">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_i">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_inner_n">
+    <mirror />
+  </decal>
+  <decal path="waldmo/shard_outer_d">
+    <mirror />
+  </decal>
+
+
 </decals>
