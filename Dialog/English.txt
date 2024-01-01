@@ -4,6 +4,11 @@
 waldmo_BadEnd=
 You were never seen again.
 
+waldmo_BadEnd_2=
+It keeps happening.
+
+
+
 ## WALDMO_AUTO ##
 
 # Journals
