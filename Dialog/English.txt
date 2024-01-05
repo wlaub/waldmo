@@ -1,12 +1,11 @@
-	WED=	{# 96EFFF}{~}Wednesday{/~}{#}
-	WEDS=	{# 96EFFF}{~}Wednesdays{/~}{#}
+	iambad_WED=	{# 96EFFF}{~}Wednesday{/~}{#}
+	iambad_WEDS=	{# 96EFFF}{~}Wednesdays{/~}{#}
 
 waldmo_BadEnd=
 You were never seen again.
 
 waldmo_BadEnd_2=
 It keeps happening.
-
 
 
 ## WALDMO_AUTO ##
@@ -16,7 +15,7 @@ It keeps happening.
 
 waldmo_Day1=
 [MADELINE left normal]
-Day 1: I believe I have identified the source of the {+WEDS}.
+Day 1: I believe I have identified the source of the {+iambad_WEDS}.
 
 waldmo_Day1b=
 [MADELINE left normal]
@@ -28,7 +27,7 @@ I have located an entrance.
 
 waldmo_Day2=
 [MADELINE left normal]
-Day 2: It is still {+WED}.
+Day 2: It is still {+iambad_WED}.
 
 waldmo_Day2b=
 [MADELINE left normal]
@@ -40,23 +39,23 @@ I have no choice but to return to the machine.
 
 waldmo_Day3=
 [MADELINE left normal]
-Day 3: It is still {+WED}.
+Day 3: It is still {+iambad_WED}.
 
 waldmo_Day4=
 [MADELINE left normal]
-Day 4: It is still {+WED}.
+Day 4: It is still {+iambad_WED}.
 
 waldmo_Day5=
 [MADELINE left normal]
-Day 5: It is still {+WED}.
+Day 5: It is still {+iambad_WED}.
 
 waldmo_Day6=
 [MADELINE left normal]
-Day 6: It is still {+WED}.
+Day 6: It is still {+iambad_WED}.
 
 waldmo_Day7=
 [MADELINE left normal]
-Day 7: It is still {+WED}.
+Day 7: It is still {+iambad_WED}.
 
 waldmo_Day9=
 [MADELINE left normal]
