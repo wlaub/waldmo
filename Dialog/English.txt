@@ -5,7 +5,7 @@ waldmo_BadEnd=
 You were never seen again.
 
 waldmo_BadEnd_2=
-It keeps happening.
+You jumped off this mortal coil.
 
 
 ## WALDMO_AUTO ##
