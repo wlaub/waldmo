@@ -31,7 +31,7 @@ files = {
 'tameyellow',
 }
 
-files = {'tameyellow'}
+files = {'vividblack3'}
 
 for filename in files:
 #    base = filename.split('.')[0]
