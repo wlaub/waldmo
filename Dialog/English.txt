@@ -7,6 +7,9 @@ You were never seen again.
 waldmo_BadEnd_2=
 You jumped off this mortal coil.
 
+waldmo_BadEnd_3=
+There goes my hero.
+
 
 ## WALDMO_AUTO ##
 
