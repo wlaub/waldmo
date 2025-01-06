@@ -10,6 +10,19 @@ You jumped off this mortal coil.
 waldmo_BadEnd_3=
 There goes my hero.
 
+waldmo_consume_me_zoom=
+[MADELINE left normal]
+ {1.5}
+
+[MADELINE left togetherZoom]
+I won't let it consume me.
+
+waldmo_consume_me_normal=
+[MADELINE left normal]
+ {1.5}
+
+[MADELINE left normal]
+I won't let it consume me.
 
 ## WALDMO_AUTO ##
 
