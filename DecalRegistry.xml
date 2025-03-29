@@ -1,5 +1,42 @@
 <decals>
 
+<!-- magbe -->
+
+  <decal path="iambad/magbe/mush/88886_overlay">
+    <overlay />
+  </decal>
+
+  <decal path="iambad/magbe/bgm/l*">
+    <!--parallax amount="0.1" /--> 
+    <axis_parallax x="0.1"/>
+    <depth value="14000" /> 
+  </decal>
+
+  <decal path="iambad/magbe/bgm/s*">
+    <!--parallax amount="0.1" /--> 
+    <axis_parallax x="-0.05"/>
+    <depth value="16000" /> 
+  </decal>
+
+  <decal path="iambad/magbe/gmush/*">
+    <!--parallax amount="0.1" /--> 
+    <!-- axis_parallax x="-0.02"/-->
+    <depth value="-100" />
+    <banner speed="0.2" amplitude="0.5" sliceSinIncrements="0.1" sliceSize="3"/>
+    <staticMover />
+  </decal>
+
+  <decal path="iambad/magbe/grect/*">
+    <!--parallax amount="0.1" /--> 
+    <!-- axis_parallax x="-0.02"/-->
+    <depth value="-100" />
+    <!--banner speed="0.2" amplitude="0.5" sliceSinIncrements="0.1" sliceSize="3"/-->
+    <staticMover y="-8" />
+  </decal> 
+
+
+<!-- twoteof -->
+
   <decal path="waldmo/reactor/">
     <randomizeFrame />
     <animationSpeed value="6" />

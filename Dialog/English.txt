@@ -24,6 +24,10 @@ waldmo_consume_me_normal=
 [MADELINE left normal]
 I won't let it consume me.
 
+waldmo_comf=
+[MADELINE left normal]
+comf
+
 ## WALDMO_AUTO ##
 
 # Journals
