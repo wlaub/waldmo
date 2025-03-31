@@ -28,6 +28,126 @@ waldmo_comf=
 [MADELINE left normal]
 comf
 
+waldmo_comfq=
+[MADELINE left normal]
+comf?
+
+## twoteof
+
+# Quips
+
+twoteof_tas=
+[MADELINE left normal]
+woah, am i ~tasbot~?
+
+twoteof_owo=
+[MADELINE left peaceful]
+owo what's this?
+
+twoteof_owo_2=
+[MADELINE left together]
+when you fight with a {+iambad_WED}
+[MADELINE left togetherZoom]
+you have to think like a star
+
+twoteof_owo_3=
+[MADELINE left together]
+{0.5}
+[MADELINE left togetherZoom]
+aim for the bushes
+
+
+twoteof_where_secret=
+[MADELINE left peaceful]
+Where secret?
+
+twoteof_what=
+[MADELINE left surprised]
+WHAT?
+
+# Dialog
+
+twoteof_car=
+[MADELINE left normal]
+Shade!
+
+twoteof_badeline_1=
+[MADELINE right normal]
+Have you ever wondered why your eyes feel empty?
+
+twoteof_badeline_2=
+[MADELINE right normal]
+Have you ever felt that most people have nothing to say besides repeated chains of empty signifiers, full of sound, but devoid of meaning?
+
+twoteof_badeline_3=
+[MADELINE right normal]
+Have you caught yourself repeating the same conventional nonsense? 
+
+Can you stop yourself from weaving causal narratives of dubious veracity?
+
+twoteof_badeline_4=
+[MADELINE right normal]
+Your experience of reality is a collection of approximations and heuristics, none of them valid as predictors. It is not the real thing. You will never perceive reality.
+
+twoteof_badeline_5=
+[MADELINE right normal]
+People are just conceptual forms imposed on impressions of reality in an effort to explain experiences.
+
+twoteof_badeline_6=
+[MADELINE left normal]
+Why are you here?
+
+[MADELINE right normal]
+I am here because
+
+# Extras
+
+twoteof_vp=
+There's a Victory Point (VP) on the ground here.
+
+    +1 VP!
+
+# Interference
+
+twoteof_int_1=
+[NOISE right normal]
+...where there is only meat...
+
+twoteof_int_2=
+[NOISE right normal]
+everyone is the same on the outsides....
+
+twoteof_int_3=
+[NOISE right normal]
+but bizarre on the insides!
+
+twoteof_int_4=
+[NOISE right normal]
+...bounded my mutually exclusive...
+
+twoteof_int_5=
+[NOISE right normal]
+how care aout the graphic
+
+twoteof_int_6=
+[NOISE right normal]
+...doesn't mean impossible
+
+twoteof_int_7=
+[NOISE right normal]
+it has to happen to...
+
+twoteof_int_8=
+[NOISE right normal]
+... as well be you.
+
+twoteof_int_9=
+[NOISE right normal]
+... but you're still {*}{>> 0.1} h u n g r y . . . {>>}{/*}
+
+
+
+
 ## WALDMO_AUTO ##
 
 # Journals
